@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": [
+      {
+        "text": "You are assisting a network operations engineer. Device ROUTER-03 currently has latency of 310 ms compared with a recent baseline near 52 ms. Packet loss increased to 9.8 percent compared with a baseline near 0.4 percent. Throughput dropped from approximately 500 Mbps to 95 Mbps. Provide: 1. a short incident summary, 2. three plausible root-cause hypotheses, 3. the evidence supporting each hypothesis, 4. evidence that is still missing, and 5. recommended investigation steps. Do not claim that any root cause has been confirmed."
+      }
+    ]
+  }
+]

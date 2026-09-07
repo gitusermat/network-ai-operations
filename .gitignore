@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Environment and secrets
+.env
+.venv/
+venv/
+
+# AWS
+.aws/
+credentials
+
+# Airflow local files
+logs/
+airflow.cfg
+
+# Generated outputs
+dags/data/network_metrics_features.csv
+dags/data/network_metrics_scored.csv
+dags/data/network_metrics_from_s3.csv
+dags/data/network_incidents_with_logs.csv
+dags/data/network_rca_results.csv
+dags/data/customer_satisfaction_results.csv
+dags/data/network_cluster_results.csv
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

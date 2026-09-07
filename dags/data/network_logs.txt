@@ -1,0 +1,8 @@
+2026-09-05 10:15:20 ROUTER-01 WARNING latency=184 packet_loss=4.8
+2026-09-05 10:15:24 ROUTER-02 INFO latency=28 packet_loss=0.1
+2026-09-05 10:15:30 ROUTER-03 ERROR latency=410 packet_loss=11.2
+2026-09-05 10:16:03 ROUTER-04 INFO latency=45 packet_loss=0.2
+2026-09-05 10:16:16 ROUTER-01 WARNING latency=172 packet_loss=3.2
+2026-09-05 10:16:40 ROUTER-05 ERROR latency=520 packet_loss=15.4
+2026-09-05 10:17:01 ROUTER-02 INFO latency=31 packet_loss=0.0
+2026-09-05 10:17:20 ROUTER-03 WARNING latency=205 packet_loss=4.5

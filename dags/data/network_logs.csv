@@ -1,0 +1,26 @@
+event_time,device,severity,event_type,message
+2026-09-05 08:01:40,ROUTER-02,WARNING,INTERFACE,Gi0/1 input errors increasing
+2026-09-05 08:01:55,ROUTER-02,ERROR,BGP,BGP neighbor 10.20.1.2 changed from ESTABLISHED to IDLE
+2026-09-05 08:02:05,ROUTER-02,WARNING,INTERFACE,Packet drops detected on Gi0/1
+2026-09-05 08:02:18,ROUTER-02,WARNING,SYSTEM,CPU utilization increased to 91 percent
+2026-09-05 08:02:26,ROUTER-02,ERROR,INTERFACE,Interface Gi0/1 CRC errors increased
+
+2026-09-05 08:02:35,ROUTER-03,INFO,ROUTING,OSPF adjacency stable
+2026-09-05 08:02:42,ROUTER-03,WARNING,TRAFFIC,Traffic utilization increased to 89 percent
+2026-09-05 08:02:50,ROUTER-03,WARNING,QUEUE,Output queue drops detected
+2026-09-05 08:03:04,ROUTER-03,ERROR,TRAFFIC,Congestion threshold exceeded
+
+2026-09-05 08:04:35,ROUTER-04,INFO,CONFIG,Configuration commit started
+2026-09-05 08:04:42,ROUTER-04,WARNING,CONFIG,Routing policy modified
+2026-09-05 08:04:50,ROUTER-04,WARNING,BGP,BGP route advertisements changed
+2026-09-05 08:05:08,ROUTER-04,INFO,CONFIG,Configuration commit completed
+
+2026-09-05 08:00:05,ROUTER-05,WARNING,HARDWARE,Interface temperature above normal threshold
+2026-09-05 08:00:18,ROUTER-05,ERROR,INTERFACE,Gi0/2 link flapping detected
+2026-09-05 08:00:25,ROUTER-05,WARNING,INTERFACE,Gi0/2 changed state DOWN to UP
+2026-09-05 08:00:41,ROUTER-05,ERROR,HARDWARE,Transceiver optical power below threshold
+
+2026-09-05 08:08:32,ROUTER-01,INFO,SYSTEM,System operating normally
+2026-09-05 08:08:48,ROUTER-01,WARNING,MEMORY,Memory utilization increased to 88 percent
+2026-09-05 08:08:55,ROUTER-01,WARNING,SYSTEM,Process bgpd CPU usage increased
+2026-09-05 08:09:06,ROUTER-01,ERROR,SYSTEM,Routing process response time exceeded threshold
